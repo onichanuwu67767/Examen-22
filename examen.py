@@ -12,9 +12,10 @@
 # ETAPA 1 - INICIO
 # =========================
 
-# Crear las variables necesarias.
-# Crear las listas de productos y precios.
-# Pedir los datos del cliente.
+nombre = input (" pone tu nombre: ")
+saldo = int(input ("cual es su saldo: "))
+print ("bienvenido wei", nombre, "saldo: ", saldo)
+
 
 
 # =========================
